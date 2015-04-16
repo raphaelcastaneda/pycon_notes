@@ -55,3 +55,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# IDE stuff:
+.ipynb_checkpoints/
+.idea/
+
+# IPython stuff:
