@@ -1,2 +1,2 @@
 # raphael_pycon_notes
-Notes I scribbled during pycon
+A collection of IPython notebooks from Python tutorials and some notes I scribbled during pycon
