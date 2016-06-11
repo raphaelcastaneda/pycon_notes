@@ -1,5 +1,10 @@
-# raphael_pycon_notes
-A collection of IPython notebooks from Python tutorials and some notes I scribbled during pycon
+# Pycon Notes
+A collection of IPython notebooks from Python tutorials and some notes I scribbled during PyCon
+
+## 2016
+[Recommended talks](https://www.youtube.com/playlist?list=PLQpMUUbQEmk2flfn52Nl1YrbOns71_dD7)
+
+## 2015
 
 [Recommended talks](https://www.youtube.com/playlist?list=PLQpMUUbQEmk19h3Z8YUmqS-dx_ewrEyR_)
 
