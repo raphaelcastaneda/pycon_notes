@@ -1,12 +1,12 @@
 [submodule "tutorials/CompStats"]
-	path = tutorials/CompStats
+	path = 2015/tutorials/CompStats
 	url = https://github.com/AllenDowney/CompStats.git
 [submodule "tutorials/Network-Analysis-Made-Simple"]
-	path = tutorials/Network-Analysis-Made-Simple
+	path = 2015/tutorials/Network-Analysis-Made-Simple/Network-Analysis-Made-Simple
 	url = https://github.com/ericmjl/Network-Analysis-Made-Simple.git
 [submodule "tutorials/hands-on-analysis-python"]
-	path = tutorials/hands-on-analysis-python
+	path = 2015/tutorials/hands-on-analysis-python/hands-on-analysis-python
 	url = https://github.com/sarguido/hands-on-analysis-python.git
 [submodule "tutorials/pycon2015-kaggle-tutorial"]
-	path = tutorials/pycon2015-kaggle-tutorial
+	path = 2015/tutorials/pycon2015-kaggle-tutorial/pycon2015-kaggle-tutorial
 	url = https://github.com/dchudz/pycon2015-kaggle-tutorial.git
